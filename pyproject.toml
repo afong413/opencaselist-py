@@ -16,6 +16,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 license = { file = "LICENSE" }
+dependencies = [
+    "requests>=2.32.3",
+]
 
 [project.urls]
 Homepage = "https://github.com/afong413/opencaselist-py"
