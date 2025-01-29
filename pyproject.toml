@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=75.6.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opencaselist"
+version = "0.0.1"
+authors = [
+  { name="afong413" },
+]
+description = "A python wrapper for the Opencaselist API."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = { file = "LICENSE" }
+
+[project.urls]
+Homepage = "https://github.com/afong413/opencaselist-py"
+Issues = "https://github.com/afong413/opencaselist-py/issues"
