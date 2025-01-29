@@ -1,0 +1,11 @@
+build==1.2.2.post1
+certifi==2024.12.14
+charset-normalizer==3.4.1
+idna==3.10
+importlib_metadata==8.6.1
+packaging==24.2
+pyproject_hooks==1.2.0
+requests==2.32.3
+tomli==2.2.1
+urllib3==2.3.0
+zipp==3.21.0
