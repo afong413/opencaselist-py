@@ -1,3 +1,3 @@
 # opencaselist-py
 
-A python wrapper for the Opencaselist API.
+A python wrapper for the openCaselist API.

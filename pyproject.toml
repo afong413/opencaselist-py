@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
   { name="afong413" },
 ]
-description = "A python wrapper for the Opencaselist API."
+description = "A python wrapper for the openCaselist API."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
